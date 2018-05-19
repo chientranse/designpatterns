@@ -1,0 +1,1 @@
+Design pattern come in 4 types: Creational, Structural, Behavioral and J2EE
