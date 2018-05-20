@@ -66,3 +66,5 @@
 [Service Locator](https://github.com/chientran98/designpattern/tree/master/edu/chientran98/designpattern/servicelocator)
 
 [Transfer Object](https://github.com/chientran98/designpattern/tree/master/edu/chientran98/designpattern/transferobject)
+
+# [Tutorials Point](https://www.tutorialspoint.com/design_pattern/index.htm)
